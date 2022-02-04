@@ -13,7 +13,7 @@ namespace testdashboard02032022.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing23", "Bracing", "Chilly", "Cool", "Mild23", "Warm", "Balmy", "Hot", "Sweltering", "Scorching12"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
